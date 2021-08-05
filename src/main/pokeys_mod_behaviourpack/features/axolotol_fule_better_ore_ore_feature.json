@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "axolotol_fule:axolotol_fule_better_ore_ore_feature"
+    },
+    "count": 7,
+    "places_block": "axolotol_fule:better_ore",
+    "may_replace": [
+      "minecraft:stone"
+    ]
+  }
+}

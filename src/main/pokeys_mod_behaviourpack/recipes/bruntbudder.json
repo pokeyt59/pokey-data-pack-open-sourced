@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "axolotol_fule:bruntbudder"
+    },
+    "groups": [
+      "axolotol_fule"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:gold_ingot"
+    },
+    "output": {
+      "item": "minecraft:netherite_ingot"
+    }
+  }
+}

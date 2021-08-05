@@ -1,0 +1,13 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "pokeys_mod:pokeys_mod_better_ore_ore_feature"
+    },
+    "count": 7,
+    "places_block": "pokeys_mod:better_ore",
+    "may_replace": [
+      "minecraft:stone"
+    ]
+  }
+}

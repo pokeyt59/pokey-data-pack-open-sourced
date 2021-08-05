@@ -1,0 +1,24 @@
+{
+  "bat6": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds/battle6",
+        "volume": 1
+      }
+    ]
+  },
+  "my_game_refrence_exept_bushes_of_love": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "sounds/bushes_of_love_--_extended_lyric_video",
+        "volume": 1
+      },
+      {
+        "name": "sounds/gameover2",
+        "volume": 1
+      }
+    ]
+  }
+}

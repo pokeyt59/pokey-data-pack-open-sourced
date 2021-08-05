@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "warning this mod is still in beta testing ",
+    "name": "pokey's mod",
+    "uuid": "d0956cca-4fed-37f8-8a2d-57bafabefe2f",
+    "version": [
+      3,
+      11,
+      11
+    ],
+    "min_engine_version": [
+      1,
+      16,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "warning this mod is still in beta testing ",
+      "type": "resources",
+      "uuid": "72e1e669-70ec-31da-bb9d-085f5ed06900",
+      "version": [
+        3,
+        11,
+        11
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      " pokey, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

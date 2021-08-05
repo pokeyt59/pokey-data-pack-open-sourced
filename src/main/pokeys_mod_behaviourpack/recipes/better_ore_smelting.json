@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "pokeys_mod:better_ore_smelting"
+    },
+    "groups": [
+      "pokeys_mod"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "pokeys_mod:better_ore"
+    },
+    "output": {
+      "item": "pokeys_mod:better_ingot"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 18,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "2145232",
+    "customModelName": "Normal",
+    "name": "Axolfule",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 25,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": true,
+    "damageVsEntity": 14.799999999999999,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Axolotolfule",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "axolotolfule",
+      "path": "~/items"
+    },
+    {
+      "name": "FULE",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "fule",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Nethechip",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "nethechip",
+      "path": "~/crafting recipes/smelt"
+    },
+    {
+      "name": "Bruntbuder",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "bruntbuder",
+      "path": "~/crafting recipes/smelt"
+    },
+    {
+      "name": "Butter",
+      "type": "food",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "butter",
+      "path": "~/items"
+    },
+    {
+      "name": "Hot",
+      "type": "biome",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "hot",
+      "path": "~/biome"
+    },
+    {
+      "name": "Catrer",
+      "type": "mob",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "catrer",
+      "path": "~/mobs"
+    },
+    {
+      "name": "Butterblock",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "butterblock",
+      "path": "~/blocks"
+    },
+    {
+      "name": "Ab",
+      "type": "biome",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ab",
+      "path": "~/biome"
+    },
+    {
+      "name": "Rar",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "rar",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Blockof",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "blockof",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Medpack",
+      "type": "food",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "medpack_small",
+      "path": "~/items"
+    },
+    {
+      "name": "Medpackmedium",
+      "type": "food",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "medpackmedium",
+      "path": "~/items"
+    },
+    {
+      "name": "Med1",
+      "type": "loottable",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "med_1",
+      "path": "~/loot tabes"
+    },
+    {
+      "name": "M",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "m",
+      "path": "~/blocks"
+    },
+    {
+      "name": "Yes",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "yes",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Cta",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cta",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Yey",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yey",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Yey2",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yey_2",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Medipackcrafting",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medipackcrafting",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "Medipackcraftingav",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "medipackcraftingav",
+      "path": "~/crafting recipes/smelt"
+    },
+    {
+      "name": "BetterIngot",
+      "type": "item",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "better_ingot",
+      "path": "~/items"
+    },
+    {
+      "name": "BetterOre",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_ore",
+      "path": "~/blocks"
+    },
+    {
+      "name": "BetterBlock",
+      "type": "block",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_block",
+      "path": "~/blocks"
+    },
+    {
+      "name": "BetterOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_ore_block_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "BetterBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_block_ore_recipe",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "BetterOreSmelting",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "better_ore_smelting",
+      "path": "~/crafting recipes/smelt"
+    },
+    {
+      "name": "Upgradedmedpack",
+      "type": "recipe",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "upgradedmedpack",
+      "path": "~/crafting recipes"
+    },
+    {
+      "name": "MmmmPickaxe",
+      "type": "tool",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "mmmm_pickaxe",
+      "path": "~/tools"
+    },
+    {
+      "name": "MmmmAxe",
+      "type": "tool",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "mmmm_axe",
+      "path": "~/tools"
+    },
+    {
+      "name": "MmmmSword",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "mmmm_sword",
+      "path": "~/tools"
+    },
+    {
+      "name": "MmmmShovel",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "mmmm_shovel",
+      "path": "~/tools"
+    },
+    {
+      "name": "MmmmHoe",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "mmmm_hoe",
+      "path": "~/tools"
+    },
+    {
+      "name": "MmmmPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mmmm_pickaxe_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "MmmmAxeRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mmmm_axe_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "MmmmSwordRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mmmm_sword_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "MmmmShovelRecipe",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mmmm_shovel_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "MmmmHoeRecipe",
+      "type": "recipe",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "mmmm_hoe_recipe",
+      "path": "~/crafting recipes/tools"
+    },
+    {
+      "name": "Stornkcatrerbeta",
+      "type": "mob",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "stornkcatrerbeta",
+      "path": "~/mobs"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "bat6",
+      "files": [
+        "battle6"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "my_game_refrence_exept_bushes_of_love",
+      "files": [
+        "bushes_of_love_--_extended_lyric_video",
+        "gameover2"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.axolotol_fule:medpackmedium.name": "Medpackmedium",
+      "item.axolotol_fule:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_sword.name": "Mmmm Sword",
+      "item.pokeys_mod:butter.name": "Butter",
+      "tile.pokeys_mod:m.name": "M",
+      "item.axolotol_fule:mmm_shovel.name": "Mmm Shovel",
+      "item.spawn_egg.entity.axolotol_fule:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:m.name": "M",
+      "item.pokeys_mod:mmmm_axe.name": "Mmmm Axe",
+      "item.axolotol_fule:mmm_axe.name": "Mmm Axe",
+      "item.axolotol_fule:mmm_pickaxe.name": "Mmm Pickaxe",
+      "item.axolotol_fule:medpack.name": "Medpack small",
+      "item.pokeys_mod:better_ingot.name": "Better",
+      "tile.pokeys_mod:better_block.name": "Block of Better",
+      "tile.pokeys_mod:butterblock.name": "Butterblock",
+      "item.spawn_egg.entity.pokeys_mod:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:better_block.name": "Block of Better",
+      "tile.pokeys_mod:better_ore.name": "Better Ore",
+      "item.axolotol_fule:better_ingot.name": "Better",
+      "subtitles.my_game_refrence_exept_bushes_of_love": "",
+      "item.pokeys_mod:medpack_small.name": "Medpack small",
+      "item.pokeys_mod:medpackmedium.name": "Medpackmedium",
+      "tile.axolotol_fule:butterblock.name": "Butterblock",
+      "item.pokeys_mod:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_shovel.name": "Mmmm Shovel",
+      "tile.axolotol_fule:better_ore.name": "Better Ore",
+      "item.axolotol_fule:mmm_sword.name": "Mmm Sword",
+      "item.pokeys_mod:mmmm_hoe.name": "Mmmm Hoe",
+      "item.spawn_egg.entity.pokeys_mod:stornkcatrerbeta.name": "Stronk catrer Spawn Egg",
+      "item.axolotol_fule:mmm_hoe.name": "Mmm Hoe",
+      "subtitles.bat6": "hoes",
+      "item.axolotol_fule:butter.name": "Butter",
+      "item.pokeys_mod:mmmm_pickaxe.name": "Mmmm Pickaxe"
+    },
+    "de_lu": {
+      "item.axolotol_fule:medpackmedium.name": "Medpackmedium",
+      "item.axolotol_fule:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_sword.name": "Mmmm Sword",
+      "item.pokeys_mod:butter.name": "Butter",
+      "tile.pokeys_mod:m.name": "M",
+      "item.axolotol_fule:mmm_shovel.name": "Mmm Shovel",
+      "item.spawn_egg.entity.axolotol_fule:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:m.name": "M",
+      "item.pokeys_mod:mmmm_axe.name": "Mmmm Axe",
+      "item.axolotol_fule:mmm_axe.name": "Mmm Axe",
+      "item.axolotol_fule:mmm_pickaxe.name": "Mmm Pickaxe",
+      "item.axolotol_fule:medpack.name": "Medpack small",
+      "item.pokeys_mod:better_ingot.name": "Better",
+      "tile.pokeys_mod:better_block.name": "Block of Better",
+      "tile.pokeys_mod:butterblock.name": "Butterblock",
+      "item.spawn_egg.entity.pokeys_mod:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:better_block.name": "Block of Better",
+      "tile.pokeys_mod:better_ore.name": "Better Ore",
+      "item.axolotol_fule:better_ingot.name": "Better",
+      "subtitles.my_game_refrence_exept_bushes_of_love": "",
+      "item.pokeys_mod:medpack_small.name": "Medpack small",
+      "item.pokeys_mod:medpackmedium.name": "Medpackmedium",
+      "tile.axolotol_fule:butterblock.name": "Butterblock",
+      "item.pokeys_mod:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_shovel.name": "Mmmm Shovel",
+      "tile.axolotol_fule:better_ore.name": "Better Ore",
+      "item.axolotol_fule:mmm_sword.name": "Mmm Sword",
+      "item.pokeys_mod:mmmm_hoe.name": "Mmmm Hoe",
+      "item.spawn_egg.entity.pokeys_mod:stornkcatrerbeta.name": "Stronk catrer Spawn Egg",
+      "item.axolotol_fule:mmm_hoe.name": "Mmm Hoe",
+      "subtitles.bat6": "",
+      "item.axolotol_fule:butter.name": "Butter",
+      "item.pokeys_mod:mmmm_pickaxe.name": "Mmmm Pickaxe"
+    },
+    "ja_jp": {
+      "item.axolotol_fule:medpackmedium.name": "Medpackmedium",
+      "item.axolotol_fule:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_sword.name": "Mmmm Sword",
+      "item.pokeys_mod:butter.name": "Butter",
+      "tile.pokeys_mod:m.name": "M",
+      "item.axolotol_fule:mmm_shovel.name": "Mmm Shovel",
+      "item.spawn_egg.entity.axolotol_fule:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:m.name": "M",
+      "item.pokeys_mod:mmmm_axe.name": "Mmmm Axe",
+      "item.axolotol_fule:mmm_axe.name": "Mmm Axe",
+      "item.axolotol_fule:mmm_pickaxe.name": "Mmm Pickaxe",
+      "item.axolotol_fule:medpack.name": "Medpack small",
+      "item.pokeys_mod:better_ingot.name": "Better",
+      "tile.pokeys_mod:better_block.name": "Block of Better",
+      "tile.pokeys_mod:butterblock.name": "Butterblock",
+      "item.spawn_egg.entity.pokeys_mod:catrer.name": "Catrer Spawn Egg",
+      "tile.axolotol_fule:better_block.name": "Block of Better",
+      "tile.pokeys_mod:better_ore.name": "Better Ore",
+      "item.axolotol_fule:better_ingot.name": "Better",
+      "subtitles.my_game_refrence_exept_bushes_of_love": "",
+      "item.pokeys_mod:medpack_small.name": "Medpack small",
+      "item.pokeys_mod:medpackmedium.name": "Medpackmedium",
+      "tile.axolotol_fule:butterblock.name": "Butterblock",
+      "item.pokeys_mod:axolotolfule.name": "Axolfule",
+      "item.pokeys_mod:mmmm_shovel.name": "Mmmm Shovel",
+      "tile.axolotol_fule:better_ore.name": "Better Ore",
+      "item.axolotol_fule:mmm_sword.name": "Mmm Sword",
+      "item.pokeys_mod:mmmm_hoe.name": "Mmmm Hoe",
+      "item.spawn_egg.entity.pokeys_mod:stornkcatrerbeta.name": "Stronk catrer Spawn Egg",
+      "item.axolotol_fule:mmm_hoe.name": "Mmm Hoe",
+      "subtitles.bat6": "",
+      "item.axolotol_fule:butter.name": "Butter",
+      "item.pokeys_mod:mmmm_pickaxe.name": "Mmmm Pickaxe"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "tools",
+        "children": []
+      },
+      {
+        "name": "items",
+        "children": []
+      },
+      {
+        "name": "crafting recipes",
+        "children": [
+          {
+            "name": "smelt",
+            "children": []
+          },
+          {
+            "name": "tools",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "mobs",
+        "children": []
+      },
+      {
+        "name": "blocks",
+        "children": []
+      },
+      {
+        "name": "biome",
+        "children": []
+      },
+      {
+        "name": "loot tabes",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "pokeys_mod",
+    "modName": "pokey\u0027s mod",
+    "version": "3.11.11",
+    "description": "warning this mod is still in beta testing ",
+    "author": " pokey, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "GNU General Public License version 3 (GPLv3)",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "8",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.16.x",
+    "credits": "Created using MCreator - https://mcreator.net",
+    "modElementsPackage": "net.mcreator.pokeysmod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

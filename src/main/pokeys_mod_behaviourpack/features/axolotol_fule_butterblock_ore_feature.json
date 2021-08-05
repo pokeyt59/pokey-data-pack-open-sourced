@@ -1,0 +1,11 @@
+{
+  "format_version": "1.13.0",
+  "minecraft:ore_feature": {
+    "description": {
+      "identifier": "axolotol_fule:axolotol_fule_butterblock_ore_feature"
+    },
+    "count": 26,
+    "places_block": "axolotol_fule:butterblock",
+    "may_replace": []
+  }
+}

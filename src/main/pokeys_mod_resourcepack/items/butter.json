@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pokeys_mod:butter",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "butter",
+      "minecraft:render_offsets": "apple",
+      "minecraft:use_animation": "eat"
+    }
+  }
+}

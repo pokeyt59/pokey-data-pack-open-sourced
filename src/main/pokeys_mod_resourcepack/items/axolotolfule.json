@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pokeys_mod:axolotolfule",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "axolotolfule",
+      "minecraft:render_offsets": "apple"
+    }
+  }
+}

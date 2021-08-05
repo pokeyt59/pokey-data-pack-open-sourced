@@ -1,0 +1,14 @@
+
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pokeys_mod:mmm_axe",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "mmm_axe",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "item",
+          "name": "pokeys_mod:medpackmedium",
+          "weight": 1,
+          "functions": []
+        }
+      ]
+    }
+  ]
+}

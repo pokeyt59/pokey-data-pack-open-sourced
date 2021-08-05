@@ -1,0 +1,57 @@
+{
+  "_fv": 18,
+  "_type": "loottable",
+  "definition": {
+    "type": "Generic",
+    "pools": [
+      {
+        "minrolls": 18,
+        "maxrolls": 52,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 16,
+        "hasbonusrolls": true,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Medpack"
+            },
+            "weight": 30,
+            "minCount": 1,
+            "maxCount": 1,
+            "minEnchantmentLevel": 0,
+            "maxEnchantmentLevel": 0,
+            "affectedByFortune": true,
+            "explosionDecay": false,
+            "silkTouchMode": 0
+          }
+        ]
+      },
+      {
+        "minrolls": 1,
+        "maxrolls": 1,
+        "minbonusrolls": 1,
+        "maxbonusrolls": 1,
+        "hasbonusrolls": false,
+        "entries": [
+          {
+            "type": "item",
+            "item": {
+              "value": "CUSTOM:Medpackmedium"
+            },
+            "weight": 8,
+            "minCount": 8,
+            "maxCount": 7,
+            "minEnchantmentLevel": 7,
+            "maxEnchantmentLevel": 7,
+            "affectedByFortune": true,
+            "explosionDecay": false,
+            "silkTouchMode": 0
+          }
+        ]
+      }
+    ],
+    "name": "med_1",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "format_version": [
+    1,
+    1,
+    0
+  ],
+  "pokeys_mod:butterblock": {
+    "textures": {
+      "up": "pokeys_mod_butterblock_up",
+      "down": "pokeys_mod_butterblock_down",
+      "south": "pokeys_mod_butterblock_south",
+      "north": "pokeys_mod_butterblock_north",
+      "west": "pokeys_mod_butterblock_west",
+      "east": "pokeys_mod_butterblock_east"
+    },
+    "sound": "gravel"
+  },
+  "pokeys_mod:m": {
+    "textures": {
+      "up": "pokeys_mod_m_up",
+      "down": "pokeys_mod_m_down",
+      "south": "pokeys_mod_m_south",
+      "north": "pokeys_mod_m_north",
+      "west": "pokeys_mod_m_west",
+      "east": "pokeys_mod_m_east"
+    },
+    "sound": "gravel"
+  },
+  "pokeys_mod:better_ore": {
+    "textures": {
+      "up": "pokeys_mod_better_ore_up",
+      "down": "pokeys_mod_better_ore_down",
+      "south": "pokeys_mod_better_ore_south",
+      "north": "pokeys_mod_better_ore_north",
+      "west": "pokeys_mod_better_ore_west",
+      "east": "pokeys_mod_better_ore_east"
+    },
+    "sound": "stone"
+  },
+  "pokeys_mod:better_block": {
+    "textures": {
+      "up": "pokeys_mod_better_block_up",
+      "down": "pokeys_mod_better_block_down",
+      "south": "pokeys_mod_better_block_south",
+      "north": "pokeys_mod_better_block_north",
+      "west": "pokeys_mod_better_block_west",
+      "east": "pokeys_mod_better_block_east"
+    },
+    "sound": "metal"
+  }
+}

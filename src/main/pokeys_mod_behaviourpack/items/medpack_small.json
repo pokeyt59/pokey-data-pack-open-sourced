@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pokeys_mod:medpack_small",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:max_stack_size": 64,
+      "minecraft:use_duration": 6,
+      "minecraft:food": {
+        "nutrition": 98,
+        "nutritionalValue": "normal",
+        "saturation_modifier": "low",
+        "can_always_eat": false,
+        "is_meat": true
+      }
+    }
+  }
+}

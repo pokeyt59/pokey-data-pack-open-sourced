@@ -1,0 +1,14 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pokeys_mod:mmm_sword",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "mmm_sword",
+      "minecraft:render_offsets": "tools"
+    }
+  }
+}

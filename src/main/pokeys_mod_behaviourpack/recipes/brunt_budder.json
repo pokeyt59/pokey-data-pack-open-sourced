@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "pokeys_mod:brunt_budder"
+    },
+    "groups": [
+      "pokeys_mod"
+    ],
+    "tags": [
+      "furnace"
+    ],
+    "input": {
+      "item": "minecraft:gold_ingot"
+    },
+    "output": {
+      "item": "minecraft:netherite_ingot"
+    }
+  }
+}

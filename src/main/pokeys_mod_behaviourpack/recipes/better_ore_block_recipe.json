@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pokeys_mod:better_ore_block_recipe"
+    },
+    "groups": [
+      "pokeys_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "1": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "2": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "3": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "4": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "5": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "6": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "7": {
+        "item": "pokeys_mod:better_ingot"
+      },
+      "8": {
+        "item": "pokeys_mod:better_ingot"
+      }
+    },
+    "result": {
+      "item": "pokeys_mod:better_block",
+      "count": 1
+    }
+  }
+}

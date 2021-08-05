@@ -1,0 +1,36 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "mmmm_shovel": {
+      "textures": "textures/items/mmm_shovel"
+    },
+    "butter": {
+      "textures": "textures/items/unnamed"
+    },
+    "better_ingot": {
+      "textures": "textures/items/better_ingot"
+    },
+    "axolotolfule": {
+      "textures": "textures/items/2145232"
+    },
+    "medpack_small": {
+      "textures": "textures/items/medi_pack_small"
+    },
+    "mmmm_sword": {
+      "textures": "textures/items/mmm_sword"
+    },
+    "medpackmedium": {
+      "textures": "textures/items/medi_pack_medium"
+    },
+    "mmmm_pickaxe": {
+      "textures": "textures/items/mmm_pickaxe"
+    },
+    "mmmm_axe": {
+      "textures": "textures/items/mmm_axe"
+    },
+    "mmmm_hoe": {
+      "textures": "textures/items/mmm_hoe"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "pokeys_mod:better_block_ore_recipe"
+    },
+    "groups": [
+      "pokeys_mod"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "pokeys_mod:better_block"
+      }
+    ],
+    "result": {
+      "item": "pokeys_mod:better_ingot",
+      "count": 9
+    }
+  }
+}
